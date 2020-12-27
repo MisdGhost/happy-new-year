@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    text-align: center;
+    color: darkgreen;
+    font-size: 30px;
+}
+.img{
+    height: 200xp;
+    width: 400px;
+}
+body{
+    background-color: wheat;
+}
